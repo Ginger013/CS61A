@@ -1,2 +1,2 @@
 # CS61A
-projects for classes
+Homework, Labs and Projects for classes.
